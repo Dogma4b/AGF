@@ -1,0 +1,8 @@
+
+AGF.hook = {
+	
+	AddPlayerProfileRow = {},
+
+	AddInventoryCategory = {}
+
+}
